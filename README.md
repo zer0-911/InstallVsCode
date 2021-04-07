@@ -18,6 +18,10 @@ YOI SIP
 # NB
 Buat folder untuk kodingan anda didalam folder yang sudah anda berikan .vscode agar kodingan bisa jalan\
 contoh\
-![image](https://user-images.githubusercontent.com/69960366/113876976-7538ec80-97e2-11eb-979d-9e1fc8f7702f.png)
+![image](https://user-images.githubusercontent.com/69960366/113876976-7538ec80-97e2-11eb-979d-9e1fc8f7702f.png)\
 
-misal mau pindah folder tinggal copy paste .vscode yang udah ada ke folder baru\
+misal mau pindah folder tinggal copy paste .vscode yang udah ada ke folder baru
+
+Kalau ingin buat file baru tinggal klik 
+![image](https://user-images.githubusercontent.com/69960366/113877236-b7622e00-97e2-11eb-8218-3fd946c9f5fa.png)\
+Terus sesuaikan dengan format file yang anda mau buat contoh main.cpp (bahasa C++) main.c (bahasa C) main.py (Python) dan lain lain
