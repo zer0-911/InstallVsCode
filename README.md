@@ -2,7 +2,7 @@
 Ya ini cara install Vs Code ya terutama untuk Bahasa C/C++!!
 
 1. Install Vs Code https://code.visualstudio.com 
-2. Install TDM-GCC (Optional biar enak atau MinGw yang sudah ada https://drive.google.com/drive/folders/1avSe4Jh4Y7RkY0tFuqpp1AlI2ywoQ3BN?usp=sharing
+2. Install TDM-GCC (Optional biar enak atau pakai MinGw yang sudah ada) https://drive.google.com/drive/folders/1avSe4Jh4Y7RkY0tFuqpp1AlI2ywoQ3BN?usp=sharing
 3. Buat Folder di Data anda terserah dimana
 5. Copy paste .vscode yang ada disini kedalam folder tersebut (untuk yang `c_cpp_propeertis.json` buat graphic.h dan cara instaalnya cek repository satunya)\
 6. Buka file `.json` yang ada di folder .vscode memakai visual studio code dan ikuti perintah yang ada
